@@ -14,7 +14,7 @@ This project is a **Python Turtle Graphics** representation of Bangladesh's Vict
 ### Preview  
 Here is a preview of the final output:  
 
-![Victory Day Art](Screenshot 2024-12-15 231214.png)  
+![Victory Day Art](v.png)  
 
 ---
 
